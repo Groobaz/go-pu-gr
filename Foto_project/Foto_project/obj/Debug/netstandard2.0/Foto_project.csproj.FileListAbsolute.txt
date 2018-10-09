@@ -1,0 +1,12 @@
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\bin\Debug\netstandard2.0\Foto_project.deps.json
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\bin\Debug\netstandard2.0\Foto_project.dll
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\bin\Debug\netstandard2.0\Foto_project.pdb
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\obj\Debug\netstandard2.0\Foto_project.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\obj\Debug\netstandard2.0\Foto_project.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\obj\Debug\netstandard2.0\Foto_project.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\obj\Debug\netstandard2.0\Foto_project.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\obj\Debug\netstandard2.0\Foto_project.dll
+C:\Users\Bartek\source\repos\Foto_project\Foto_project\obj\Debug\netstandard2.0\Foto_project.pdb
