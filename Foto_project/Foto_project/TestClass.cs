@@ -10,5 +10,10 @@ namespace Foto_project
         {
 
         }
+
+        public void Pudzian()
+        {
+
+        }
     }
 }
